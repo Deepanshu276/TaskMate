@@ -9,6 +9,7 @@ django-crispy-forms==1.11.2
 django-environ==0.4.5
 django-heroku==0.3.1
 Flask==2.0.0
+gunicorn==20.1.0
 itsdangerous==2.0.0
 Jinja2==3.0.0
 legacy==0.1.6
